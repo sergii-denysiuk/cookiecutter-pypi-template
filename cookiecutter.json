@@ -1,0 +1,9 @@
+{
+    "name": "example_python_package",
+    "entrypoint_file_name": "main",
+    "short_description": "Example python package.",
+    "author_name": "Name Surname",
+    "author_email": "example@email.com",
+    "url": "https://example.com",
+    "python_version": ["3.8", "3.9"]
+}
